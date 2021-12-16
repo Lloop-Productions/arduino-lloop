@@ -20,3 +20,12 @@ This repository holds some open source documentation about arduino components
 | Arduino Due          | 76        | 75       |
 | Mega                 | 52        | 51       |
 | Arduino Nano BLE     | 13        | 11       |
+
+### 340G boards (cheap Chineese ones) config
+
+** Search Google for CH340G driver, and download the appropriate one based on OS.   
+
+| Model                | Chipset     | Bootloader          |
+|----------------------|-------------|---------------------|
+| AZ Delivery Nano     | ATmega328P  | (Old Bootloader)    |
+| Arduino Mega 340G    | ATmega      | TODO                |
